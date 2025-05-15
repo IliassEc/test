@@ -21,7 +21,7 @@ require_once(__DIR__ . '/functions.php');
 
         <!-- inclusion de l'entête du site -->
         <?php require_once(__DIR__ . '/header.php'); ?>
-        <h1>Site de recettes</h1>
+        <h1>Site de recettes111</h1>
 
         <?php foreach (getRecipes($recipes) as $recipe) : ?>
             <article>
